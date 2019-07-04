@@ -191,15 +191,3 @@ SELECT *
 FROM top_five_genres;
 
 DROP VIEW top_five_genres;
-
-
-
-
-
-
-
-
-
-
-
-
